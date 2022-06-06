@@ -31,10 +31,10 @@
       "value": "60",
       "required": true
     },
-    "ASSISTANT_PREFIX": {
-      "description": "Perintah Untuk Asisstant, Jika tidak mengerti isi saja (.).",
-      "value": ".",
-      "required": true
+      "AUTO_LEAVING_ASSISTANT": {
+        "description": "If you want your assistant to leave all chats automatically after some time.",
+        "value": "True",
+        "required": true
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
@@ -66,10 +66,10 @@
       "value": "",
       "required": false
     },
-    "STRING_SESSION1": {
-      "description": "Masukan Pyrogram String Session. Untuk Asisstant ke satu.",
-      "value": "",
-      "required": true
+      "STRING_SESSION": {
+        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "value": "",
+        "required": true
     },
     "HEROKU_API_KEY": {
       "description": "API Key akun Heroku Anda",
@@ -88,11 +88,6 @@
     },
     "SUDO_USERS": {
       "description": "ID pengguna dari pengguna yang ingin Anda tambahkan sebagai SUDO.  Beberapa nilai harus dipisahkan dengan spasi.",
-      "value": "",
-      "required": true
-    },
-    "LOG_SESSION": {
-      "description": "Masukan Pyrogram String Session Asisstant kesatu saja .",
       "value": "",
       "required": true
     },

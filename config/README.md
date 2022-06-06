@@ -13,7 +13,7 @@ Config vars pada dasarnya adalah variabel yang mengonfigurasi atau memodifikasi 
 8. `STRING_SESSION` : Diperlukan Sesi Pyrogram, Hasilkan string dari [@xastringbot](http://t.me/xastringbot) di Telegram.
 
 
-## Vars Tidak Wajib
+## Vars Tidak Wajib 
 
 - Ini adalah vars tambahan untuk fitur tambahan di dalam Bot Musik. Anda dapat meninggalkan vars yang tidak wajib untuk saat ini dan dapat menambahkannya nanti.
 

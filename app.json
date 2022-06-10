@@ -48,12 +48,12 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Link Channel Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
-      "value": "https://t.me/itsmevinix",
+      "value": "https://t.me/iamsenja",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Link Group Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
-      "value": "https://t.me/vinixsupport",
+      "value": "https://t.me/senjaasupport",
       "required": false
     },
     "OWNER_ID": {
@@ -93,7 +93,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Silahkan /skip saja ",
-      "value": "https://github.com/Inisenja/YukkiVinix",
+      "value": "https://github.com/Inisenja/YukkiSenja",
       "required": true
     },
     "UPSTREAM_BRANCH": {

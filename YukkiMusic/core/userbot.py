@@ -58,7 +58,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("itsmevinix")
-                await self.one.join_chat("bukanndilan")
+                await self.one.join_chat("iamsenja")
                 await self.one.join_chat("vinixsupport")
             except:
                 pass
@@ -89,7 +89,7 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("itsmevinix")
-                await self.two.join_chat("bukanndilan")
+                await self.two.join_chat("iamsenja")
                 await self.two.join_chat("vinixsupport")
             except:
                 pass
@@ -120,7 +120,7 @@ class Userbot(Client):
             await self.three.start()
             try:
                 await self.three.join_chat("itsmevinix")
-                await self.three.join_chat("bukanndilan")
+                await self.three.join_chat("iamsenja")
                 await self.three.join_chat("vinixsupport")
             except:
                 pass
@@ -151,7 +151,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("itsmevinix")
-                await self.four.join_chat("bukanndilan")
+                await self.four.join_chat("iamsenja")
                 await self.four.join_chat("vinixsupport")
             except:
                 pass
@@ -182,7 +182,7 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("itsmevinix")
-                await self.five.join_chat("bukanndilan")
+                await self.five.join_chat("iamsenja")
                 await self.five.join_chat("vinixsupport")
             except:
                 pass

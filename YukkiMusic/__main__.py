@@ -32,7 +32,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("VinixMusic").error(
+        LOGGER("SenjaMusic").error(
             "Tidak Ada Asisten Klien yang Ditentukan Vars!.. Exiting Process."
         )
         return
@@ -40,7 +40,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("VinixMusic").warning(
+        LOGGER("SenjaMusic").warning(
             "Tidak ada Spotify Vars yang ditentukan. Bot Anda tidak akan dapat memainkan kueri spotify."
         )
     try:
@@ -65,17 +65,17 @@ async def init():
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
         )
     except NoActiveGroupCall:
-        LOGGER("VinixMusic").error(
+        LOGGER("SenjaMusic").error(
             "[ERROR] - \n\nSilakan aktifkan Panggilan Suara Grup Logger Anda. Pastikan Anda tidak pernah menutup/mengakhiri panggilan suara di grup log Anda"
         )
         sys.exit()
     except:
         pass
     await Yukki.decorators()
-    LOGGER("VinixMusic").info("Bot Musik Berhasil dibuat Berikan Ucapan Terimakasih kepada Vinix :D")
+    LOGGER("SenjaMusic").info("Bot Musik Berhasil dibuat Berikan Ucapan Terimakasih kepada Senja :D")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("VinixMusic").info("Menghentikan Vinix Music Bot! ")
+    LOGGER("SenjaMusic").info("Menghentikan Senja Music Bot! ")

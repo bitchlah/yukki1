@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/f4f0583644ab3bc1f7a4b.jpg">
+  <img src="https://telegra.ph/file/f4f0583644ab3bc1f7a4b.jpg"
 </p>
 <h4 align="center">
      BASE REPO YUKKI MUSIC BOT SAYA HANYA CLONING, MERUBAH / ATAU MENAMBAH BAHASA INDONESIA SUNDA, JAWA, & TOXIC

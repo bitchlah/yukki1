@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/578545e923dd12ecc457d.jpg">
+  <img src="https://telegra.ph/file/f4f0583644ab3bc1f7a4b.jpg">
 </p>
 <h4 align="center">
      BASE REPO YUKKI MUSIC BOT SAYA HANYA CLONING, MERUBAH / ATAU MENAMBAH BAHASA INDONESIA SUNDA, JAWA, & TOXIC
@@ -7,28 +7,28 @@
 
 
     
-# YUKKI VINIX
+# YUKKI SENJA
 
 <details>
 <summary><b>🚀 CONFIG VARS </b></summary>
 <br>
 
-- [klik disini](https://github.com/Inisenja/YukkiVinix/blob/master/config/README.md) Untuk Melihat semua vars yang tersedia
+- [klik disini](https://github.com/Inisenja/YukkiSenja/blob/master/config/README.md) Untuk Melihat semua vars yang tersedia
 </details>
 
 <details>
 <summary><b>🚀 STRING SESSION </b></summary>
 <br>
-<h4>ᴀᴍʙɪʟ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇʟᴀʟᴜɪ xᴀ sᴛʀɪɴɢ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/xastringrobot"><img src="https://img.shields.io/badge/xa%20string%20bot-lightblue?style=for-the-badge&logo=appveyor" width="150""/></a></p> 
+<h4>ᴀᴍʙɪʟ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇʟᴀʟᴜɪ sᴇɴᴊᴀ sᴛʀɪɴɢ ʀᴏʙᴏᴛ: </h4>    
+<p><a href="https://t.me/stringnjarobot"><img src="https://img.shields.io/badge/xa%20string%20bot-lightblue?style=for-the-badge&logo=appveyor" width="150""/></a></p> 
 </details>
 
 <details>
 <summary><b>🚀 DEPLOY </b></summary>
 <br>
 
-<h4>ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇɴ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴠɪɴɪx  ᴅɪʜᴇʀᴏᴋᴜ!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Inisenja/YukkiVinix/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
+<h4>ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇɴ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ sᴇɴᴊᴀ  ᴅɪʜᴇʀᴏᴋᴜ!</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Inisenja/YukkiSenja/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
 
 ### ᴠᴘs
 - Upgrade & Update :
@@ -40,7 +40,7 @@
 - Install Node
 `curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - kloning repository
-`git clone https://github.com/Inisenja/YukkiVinix &&  cd YukkiVinix`
+`git clone https://github.com/Inisenja/YukkiSenja &&  cd YukkiSenja`
 - install requirements
 `pip3 install -U -r requirements.txt`
 - mengganti nama sample.env dengan .env
@@ -58,10 +58,10 @@
 - Fork Repository ini 
 - Klik [OKTETO](https://www.okteto.com)
 - Masukan Var dan data mu, untuk melihat var apa saja yang ada silahkan klik dibawah
-- [List Variable](https://github.com/Inisenja/YukkiVinix/blob/master/config/README.md)
+- [List Variable](https://github.com/Inisenja/YukkiSenja/blob/master/config/README.md)
 
 ### ʟɪsᴛ ᴘᴇʀɪɴᴛᴀʜ
-- Klik [disini](https://github.com/Inisenja/YukkiVinix/blob/master/strings/command.yml) untuk melihat semua perintah pada bot music
+- Klik [disini](https://github.com/Inisenja/YukkiSenja/blob/master/strings/command.yml) untuk melihat semua perintah pada bot music
 
 </details>
 
@@ -69,9 +69,9 @@
 <summary><b>🚀 CONTACT & SPECIAL THANKS</b></summary>
 
 ## ᴄᴏɴᴛᴀᴄᴛ
-- [ᴄʜᴀɴɴᴇʟ](https://t.me/itsmevinix)
-- [ɢʀᴏᴜᴘ](https://t.me/vinixsupport)
-- [ᴏᴡɴᴇʀ](https://t.me/Akuvinix)
+- [ᴄʜᴀɴɴᴇʟ](https://t.me/iamsenja)
+- [ɢʀᴏᴜᴘ](https://t.me/senjaasupport)
+- [ᴏᴡɴᴇʀ](https://t.me/itsmesenjaaah)
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs
 

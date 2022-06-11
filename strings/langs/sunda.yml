@@ -193,8 +193,7 @@ lyrics_4 : "Klik tombol di handap tur neangan lirik pikeun nyingkahan panjang sp
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : "{0} berpungsi sae sareng ping `{1}` md.\n\nBot uptime nyaeta {2} sarta geus meakeun total {3} gudang server. Beban CPU kira-kira. {4} kalawan konsumsi { 5} Ram. Klién Py-Tgcalls ogé gaduh `{6}` ms ping anu saé."
-
+ping_2 : "Pong!\n⚡{1} ms\n\n<b><u> System Stats:</u></b>\nUptime : {2} \nRam : {4} \nCpu : {4} \nDisk : {3}"
 
 # Lagu
 song_1 : "Anjeun tiasa ngaunduh Musik atanapi Pidéo tina YouTube ngan ukur dina obrolan pribadi. Mangga ngamimitian kuring dina obrolan pribadi."

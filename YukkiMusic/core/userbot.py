@@ -57,7 +57,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("itsmevinix")
+                await self.one.join_chat("senjaa_ex")
                 await self.one.join_chat("iamsenja")
                 await self.one.join_chat("senjaasupport")
             except:
@@ -88,7 +88,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("itsmevinix")
+                await self.two.join_chat("senjaa_ex")
                 await self.two.join_chat("iamsenja")
                 await self.two.join_chat("senjaasupport")
             except:
@@ -119,7 +119,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("itsmevinix")
+                await self.three.join_chat("senjaa_ex")
                 await self.three.join_chat("iamsenja")
                 await self.three.join_chat("senjaasupport")
             except:
@@ -150,7 +150,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("itsmevinix")
+                await self.four.join_chat("senjaa_ex")
                 await self.four.join_chat("iamsenja")
                 await self.four.join_chat("senjaasupport")
             except:
@@ -181,7 +181,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("itsmevinix")
+                await self.five.join_chat("senjaa_ex")
                 await self.five.join_chat("iamsenja")
                 await self.five.join_chat("senjaasupport")
             except:

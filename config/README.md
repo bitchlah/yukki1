@@ -10,7 +10,7 @@ Config vars pada dasarnya adalah variabel yang mengonfigurasi atau memodifikasi 
 4. `MONGO_DB_URI` : dapatkan mongo db [disini](https://www.mongodb.com)
 5. `LOG_GROUP_ID` ​​: Buatlah Group Super /public group dan masukan bot Rose ketik /id
 7. `OWNER_ID` : ID Pemilik Anda untuk mengelola bot Anda.
-8. `STRING_SESSION` : Diperlukan Sesi Pyrogram, Hasilkan string dari [@xastringbot](http://t.me/xastringbot) di Telegram.
+8. `STRING_SESSION` : Diperlukan Sesi Pyrogram, Hasilkan string dari [@stringnjarobot](http://t.me/stringnjarobot) di Telegram.
 
 
 ## Vars Tidak Wajib 

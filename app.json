@@ -46,6 +46,11 @@
       "value": "",
       "required": true
     },
+    "START_IMG_URL": {
+      "description": "Photo Untuk Botmu Ambil Di @SenjaaSupport Lalu Kirim Foto(replay) /tgm.",
+      "value": "",
+      "required": "https://telegra.ph/file/229d0d3f6bffc7f1536f9.jpg"
+    },
     "SUPPORT_CHANNEL": {
       "description": "Link Channel Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
       "value": "https://t.me/iamsenja",

@@ -32,7 +32,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("SenjaMusic").error(
+        LOGGER("ALBYMusic").error(
             "Tidak Ada Asisten Klien yang Ditentukan Vars!.. Exiting Process."
         )
         return
@@ -40,7 +40,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("SenjaMusic").warning(
+        LOGGER("ALBYMusic").warning(
             "Tidak ada Spotify Vars yang ditentukan. Bot Anda tidak akan dapat memainkan kueri spotify."
         )
     try:
@@ -65,17 +65,17 @@ async def init():
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
         )
     except NoActiveGroupCall:
-        LOGGER("SenjaMusic").error(
+        LOGGER("ALBYMusic").error(
             "[ERROR] - \n\nSilakan aktifkan Panggilan Suara Grup Logger Anda. Pastikan Anda tidak pernah menutup/mengakhiri panggilan suara di grup log Anda"
         )
         sys.exit()
     except:
         pass
     await Yukki.decorators()
-    LOGGER("SenjaMusic").info("Bot Musik Berhasil dibuat Berikan Ucapan Terimakasih kepada Senja :D")
+    LOGGER("ALBYMusic").info("Bot Musik Berhasil dibuat Berikan Ucapan Terimakasih kepada ALBY :D")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("SenjaMusic").info("Menghentikan Senja Music Bot! ")
+    LOGGER("ALBYMusic").info("Menghentikan ALBY Music Bot! ")
